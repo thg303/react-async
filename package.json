@@ -1,5 +1,5 @@
 {
-  "name": "react-async",
+  "name": "@thg303/react-async",
   "version": "3.0.0-dev",
   "description": "React components with async data fetching",
   "main": "lib/index.js",
